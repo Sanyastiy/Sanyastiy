@@ -2,4 +2,4 @@
 - 👀 I’m interested in WordPress, Frontend development, JavaScript 
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on  WordPress Projects, JavaScript and React study
-- 📫 You can reach by akselsv@mail.ru
+- 📫 You can reach me by akselsv@mail.ru
