@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Alex Stout (also @Sanyastiy)
+- 👀 I’m interested in WordPress, Frontend development, JavaScript 
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on  WordPress Projects, JavaScript and React study
+- 📫 You can reach by akselsv@mail.ru
