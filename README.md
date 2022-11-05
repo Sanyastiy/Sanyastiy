@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Alex Stout (also @Sanyastiy)
-- 👀 I’m interested in WordPress, Frontend development, JavaScript 
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on  WordPress Projects, JavaScript and React study
+- 👀 Interested in WordPress development, Fullstack skills improvement, JavaScript learning
+- 🌱 Currently working on multiple WordPress projects. You still can send me a email if you want invite me in your project
+- 💞️ Curious about JavaScript and React study
 - 📫 You can reach me by akselsv@mail.ru
+- 🛩️ 🚁 Aviation fan 💙
